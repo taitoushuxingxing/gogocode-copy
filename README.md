@@ -4,7 +4,6 @@
 规避广告法的更好的方法
 在b分支中进行修改
 ## What is GoGoCode?
-456test
 [中文 README](README-cn.md)
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
